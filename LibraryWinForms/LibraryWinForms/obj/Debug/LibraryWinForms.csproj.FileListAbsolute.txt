@@ -1,0 +1,11 @@
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.csproj.AssemblyReference.cache
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.Properties.Resources.resources
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.csproj.GenerateResource.cache
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.csproj.CoreCompileInputs.cache
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\bin\Debug\LibraryWinForms.exe.config
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\bin\Debug\LibraryWinForms.exe
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\bin\Debug\LibraryWinForms.pdb
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.exe
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.pdb
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.exe.config
+D:\Users\днс\source\repos\LibraryWinForms\LibraryWinForms\obj\Debug\LibraryWinForms.Form1.resources
